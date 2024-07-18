@@ -1,16 +1,6 @@
-Asignación mínima de RAM:
-
-SinglePlayer: 6GB
-Cliente: 5GB
-Server: 5GB
-
-Asignación de RAM recomendada:
-
-SinglePlayer: 7GB ~ 8GB
-Cliente: 7GB ~ 8GB
-Server: 8GB ~ 14GB
-
-Utilice la última versión para garantizar la mejor experiencia, ya que tiene correcciones de errores.
-
-
-Embeddium ya está dentro del modpack, no uses Optifine ya que tiene muchos problemas. Se recomienda ALTAMENTE el sombreador complementario/reimaginado o cualquier otro sombreador para las imágenes si tiene el hardware para ello.
+# Make sure you have Java 18 installed as 1.18.2 server requires Java 18 to run the server.
+# https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html
+#
+#
+# Run the forge installer 1.18.2-40.2.4 and click Install server, then select this directory as the server base.
+# After that, launch the run.bat file or run.sh (linux) should start the server, make sure to agree with eula on the first time.
